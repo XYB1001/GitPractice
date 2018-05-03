@@ -1,0 +1,4 @@
+This is a new file created on branch 'new-feat'
+.
+I will eventually add it to master.
+But it shouldn't be on dev branch at any point.
